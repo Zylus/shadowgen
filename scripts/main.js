@@ -17,7 +17,7 @@ $(function() {
 			 "That just won't work. Retry!"
          ],
          template: [
-             "@attr @race @job from @loc who has an unusual knack for @spec",
+             "@attr @race @job from @loc who has an unusual interest in @spec",
 			 "@attr @race @job from @loc who @trait and is interested in @spec",
 			 "@attr @race @job from @loc who is being hunted by @enemy",
 			 "@attr @race @job from @loc who has connections to @friends",
@@ -119,7 +119,11 @@ $(function() {
              "driving",
              "matrix culture",
 			 "cooking",
-			 "tinkering"
+			 "tinkering",
+			 "dank memes",
+			 "shopping",
+			 "gaming",
+			 "gambling"
          ],
 		 enemy: [
              "the triad",
