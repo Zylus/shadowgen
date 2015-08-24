@@ -1,0 +1,122 @@
+{
+ heading: [
+             "Check this chummer out...",
+             "The hottest runner in the sprawl:"
+			 "You better hide yo kids from:"
+         ],
+         response: [
+             "Boring, give me another one"
+         ],
+         template: [
+             "@race @job from @loc who has an unusual knack for @spec",
+			 "@race @job from @loc who is being hunted by @enemy",
+			 "@race @job from @loc who @trait"
+
+         ],
+         race: [
+             "Human",
+             "Elf",
+             "Dwarf",
+			 "Orc",
+			 "Troll"
+         ],
+		 job: [
+             "street samurai",
+             "cyber warrior",
+             "mercenary",
+             "spec ops",
+			 "assassin",
+			 "magical investigator",
+			 "street shaman",
+			 "street doc",
+			 "battle mage",
+			 "support mage",
+			 "melee adept",
+			 "melee expert",
+			 "weapon specialist",
+             "gunner",
+             "sniper",
+             "heavy gunner",
+			 "face",
+			 "fixer",
+			 "crime lord",
+			 "team leader",
+			 "decker",
+			 "technomancer",
+			 "gun adept",
+			 "rigger",
+			 "vehicle expert",
+             "driver",
+             "smuggler",
+             "ganger",
+			 "triad ganger",
+			 "yak ganger",
+			 "vory ganger",
+			 "bounty hunter",
+			 "security expert"
+         ],
+         loc: [
+             "the UCAS",
+			 "the CAS",
+			 "the NAN",
+             "South America",
+             "Aztlan",
+             "Germany",
+			 "Middle Europe",
+			 "Eastern Europe",
+			 "Russia",
+			 "Japan",
+			 "China",
+			 "Hong Kong",
+			 "Africa",
+			 "Tir tairngire"
+         ],
+		 spec: [
+             "firearms",
+             "dancing",
+             "driving",
+             "matrix culture",
+			 "cooking",
+			 "tinkering"
+         ],
+		 enemy: [
+             "the triad",
+             "the yaks",
+             "the vory",
+             "Lone Star",
+			 "Knight Errant",
+			 "Ares",
+			 "Aztechnology",
+             "EVO corporation",
+             "Horizon group",
+             "Mitsuhama",
+			 "Neonet",
+			 "Renraku",
+			 "Saeder-Krupp",
+             "Shiawase",
+             "Wuxing",
+             "the Johnson of a run gone bad",
+			 "humanis",
+			 "an influential figure"
+         ],
+		 trait: [
+             "is afraid of spiders",
+             "is a cold-hearted businessperson",
+             "is too compassionate for their own good",
+             "easily makes friends",
+			 "is an alcoholic",
+			 "is addicted to stims",
+			 "is addicted to BTLs",
+             "loathes drugs and cyberware",
+             "barely has essence left",
+             "grew up in a slum",
+			 "is the illegitimate child of a corp exec",
+			 "enjoys cheap trid shows",
+			 "is a socialite through and trough",
+             "has an academic education",
+             "is on a quest for vengeance",
+             "is in the shadows because they enjoy it",
+			 "is an ex-wageslave",
+			 "has a family that they care about"
+         ]
+}
